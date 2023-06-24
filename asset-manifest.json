@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HireView/static/css/main.384e0ffd.css",
-    "main.js": "/HireView/static/js/main.4280940c.js",
+    "main.js": "/HireView/static/js/main.fddf8f01.js",
     "index.html": "/HireView/index.html",
     "main.384e0ffd.css.map": "/HireView/static/css/main.384e0ffd.css.map",
-    "main.4280940c.js.map": "/HireView/static/js/main.4280940c.js.map"
+    "main.fddf8f01.js.map": "/HireView/static/js/main.fddf8f01.js.map"
   },
   "entrypoints": [
     "static/css/main.384e0ffd.css",
-    "static/js/main.4280940c.js"
+    "static/js/main.fddf8f01.js"
   ]
 }
