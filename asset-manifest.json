@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HireView/static/css/main.384e0ffd.css",
+    "main.js": "/HireView/static/js/main.b5a68012.js",
+    "index.html": "/HireView/index.html",
+    "main.384e0ffd.css.map": "/HireView/static/css/main.384e0ffd.css.map",
+    "main.b5a68012.js.map": "/HireView/static/js/main.b5a68012.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384e0ffd.css",
+    "static/js/main.b5a68012.js"
+  ]
+}
