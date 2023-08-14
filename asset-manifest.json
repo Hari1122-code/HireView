@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HireView/static/css/main.384e0ffd.css",
-    "main.js": "/HireView/static/js/main.fddf8f01.js",
+    "main.css": "/HireView/static/css/main.e802ed6e.css",
+    "main.js": "/HireView/static/js/main.e1e6f995.js",
     "index.html": "/HireView/index.html",
-    "main.384e0ffd.css.map": "/HireView/static/css/main.384e0ffd.css.map",
-    "main.fddf8f01.js.map": "/HireView/static/js/main.fddf8f01.js.map"
+    "main.e802ed6e.css.map": "/HireView/static/css/main.e802ed6e.css.map",
+    "main.e1e6f995.js.map": "/HireView/static/js/main.e1e6f995.js.map"
   },
   "entrypoints": [
-    "static/css/main.384e0ffd.css",
-    "static/js/main.fddf8f01.js"
+    "static/css/main.e802ed6e.css",
+    "static/js/main.e1e6f995.js"
   ]
 }
