@@ -63,6 +63,8 @@ const Media = () => {
       setReceivingConn(null)
       setClientid('')
       setMeetstarted(false)
+      conn.close();
+      call.close();
       navigate("/")
     });
     conn.on('open', function () {
@@ -86,7 +88,7 @@ const Media = () => {
     setReceivingCall(null)
     setReceivingConn(null)
     setMeetstarted(false)
-    // navigate("/")
+    navigate("/")
   };
 
 
@@ -171,7 +173,7 @@ const Media = () => {
             {clientiName}
           </label>
           <div className='flex justify-center'>
-            <video className='w-10/12 rounded-lg' preload="none" autoPlay ref={userVideoRef} />
+            <video className='w-9/12 rounded-lg' preload="none" autoPlay ref={userVideoRef} />
           </div>
         </div>)}
       <br />

@@ -127,7 +127,7 @@ const Editor = () => {
       </div>
       <CodeMirror
         value={doc}
-        height="500px"
+        height="400px"
         theme="dark"
         extensions={[EXTENSIONS[language]]}
         onChange={onChangeCode}

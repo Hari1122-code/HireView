@@ -11,13 +11,14 @@ function Room() {
         peer.on('open', (id) => {
             setMyid(id)
         });
-
-        peer.on('call', (call) => {
-            setReceivingCall(call)
-        });
+        
         peer.on('connection', (conn) => {
             setCallAccepted(true);
             setReceivingConn(conn)
+        });
+
+        peer.on('call', (call) => {
+            setReceivingCall(call)
         });
 
     }, [])
